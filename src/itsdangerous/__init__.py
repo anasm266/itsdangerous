@@ -1,4 +1,3 @@
-from .encoding import base64_decode as base64_decode
 from .encoding import base64_encode as base64_encode
 from .encoding import want_bytes as want_bytes
 from .exc import BadData as BadData
